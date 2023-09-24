@@ -1,8 +1,6 @@
 LOLOCAL
 LOCAL
 
-# Merge_Conflict
-
 Poème de Charles Baudelaire:
 
 Souvent, pour s’amuser, les hommes d’équipage
